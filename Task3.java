@@ -37,7 +37,7 @@ public class Task3 {
                     System.out.println("Invalid option. Please try again.");
             }
 
-            System.out.println();  // Add a blank line for better readability
+            System.out.println();
         }
     }
 }
